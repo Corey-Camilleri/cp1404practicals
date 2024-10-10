@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 - Practical
+Test multiple random generators/ functions
+"""
+
 import random
 
 # random.randint

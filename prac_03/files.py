@@ -1,3 +1,8 @@
+"""
+CP1404/CP5632 - Practical
+Test multiple file reading functions
+"""
+
 name = input("What is your name? ")
 out_file = open(f"{name}.txt", "w")
 print(name, file=out_file)
